@@ -1,0 +1,22 @@
+.a {
+    color: red;
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    font-size: 10px;
+    text-align: center;
+}
+
+#ball {
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 500px;
+    bottom: -470px;
+}
+
+.inGame {
+    width: 1000px;
+    height: 500px;
+    background-color: gray;
+}
